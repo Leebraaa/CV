@@ -1,0 +1,197 @@
+body{
+    background-color: rgb(39, 39, 78);
+    width: fit-content;
+    
+}
+/*--TOP CONTAINER--*/
+.container{
+    background-color: wheat;
+    width: 80%;
+    height: 60px;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+ .img-item img{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 13px;
+    display: inline;
+}
+.items h4{
+    color: navy;
+    padding-top: -15px;
+    padding-left: 20px;
+    padding-bottom: 3px;
+    padding-right: 8px;
+    justify-content: space-between;
+    font-size: 22px;
+    font-weight: bolder;
+}
+.items{
+    display: flex;
+    margin: 0px;
+    margin-top: -12px;
+    margin-right: 3px;
+    padding-left: 0px;
+    padding-top: -10px;
+}
+/*--LOGIN SECTION--*/
+.login{
+    width: 20%;
+    height: 45px;
+    background-color: wheat;
+    border-radius: 20px;
+    margin-left: 660px;
+    margin-top: -80px;
+  
+    
+}
+.login h3{
+    color: navy;
+    padding-left: 45px;
+    padding-top: 8px;
+    font-size: 25px;
+}
+/*--MENTAL FITNESS SECTION--*/
+.sub-title{ 
+    width: 36%;
+    height: 48px;
+    border: 3px solid wheat;
+    border-radius: 35px;
+    margin-left: 60px;
+    margin-right: 5px;
+}
+
+.pre-title {
+    font-size: 14px;
+    color: wheat;
+    display: flex;
+    opacity: 0.6;
+    padding-left: 55px;
+    padding-top: -10px;
+} 
+/*--T-S-B SECTION--*/
+
+div h3 span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: 35px;
+    color: wheat;
+    padding-left: 30px;
+    display: inline;
+    
+}
+.first-doc {
+    width: 40%;
+    height: 40%;
+    border-radius: 100px;
+    border: 10px solid wheat;
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+/*--GET STARTED SECTION & AUDIO IMG--*/
+.btn-container {
+    background-color: wheat;
+    width: 23%;
+    height: 35px;
+    border-radius: 20px;
+    margin-left: 30px;
+    
+
+}
+.btn-container h5{
+    color: navy;
+    padding-left: 30px;
+    padding-top: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    font-size: 17px;
+}
+.audio-img {
+    width: 35px;
+    height: 35px;
+    margin-left: 190px;
+    margin-top: -80px;
+    margin-bottom: 30px;
+    display: inline;
+    opacity: 0.4;
+}
+.btn-container h6{
+    color: wheat;
+    font-size: 15px;
+    margin-left: 235px;
+    margin-top: -65px;
+    text-wrap: nowrap;
+    opacity: 0.5;
+}
+/*--FEATURE SECTION--*/
+.feat-cont{
+    margin-bottom: -35px;
+    padding: 0px;
+    display: block;
+    
+
+    
+}
+.feat {
+    color: wheat;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 45px;
+}
+.Feth {
+  border: 4px solid wheat;
+  border-radius: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 60%;
+  height: 50px;
+}
+/*
+.feat {
+    color: wheat;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 45px;
+}
+.Forbes {
+    font-size: 20px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    font-family: monospace;
+    font-style: italic;
+    font-stretch: condensed;
+    opacity: 0.5;
+}
+.enter {
+    font-size: 20px;
+    margin-left: -20px;
+    margin-bottom: 30px;
+    font-family: monospace;
+    font-style: italic;
+    font-stretch: condensed;
+    font-weight: bold;
+    opacity: 0.3;
+}
+.tc{
+    font-size: 30px;
+    margin-left: -25px;
+    font-family: fantasy;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bolder;
+    opacity: 0.3;
+}
+.health{
+    font-size: 25px;
+    margin-left: -20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    opacity: 0.5;
+}
+*/
